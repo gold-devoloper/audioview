@@ -13,7 +13,7 @@ Simple Android audio view with a few controls. Basically it's a MediaPlayer wrap
 
 ``` gradle
 dependencies {
-    implementation 'com.4ert:audioview:{latest-version}'
+      implementation 'com.github.gold-devoloper:audioview:1.0.0'
 }
 ```
 
